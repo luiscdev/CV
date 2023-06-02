@@ -1,7 +1,7 @@
 //import profile from "../../profile.jpg"
 const resume = {
     firstName: 'Luis Manuel',
-    lastName: 'Castaño Zuleta',
+    lastName: 'Zuleta',
     jobTitle: 'Full Stack Developer',
     city: 'Manizales',
     postalCode: '170001',
