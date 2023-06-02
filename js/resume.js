@@ -69,7 +69,7 @@ const resume = {
             ]
         },
     ],
-    photo: ""//"https://drive.google.com/file/d/1zoGxk3FSx4Q0Rb48K5jRxaw5ZmFm-Nut/view?usp=sharing"//profile //'https://scontent-bog1-1.xx.fbcdn.net/v/t39.30808-6/272678175_3145432135780738_6581827881174133683_n.jpg?_nc_cat=108&ccb=1-6&_nc_sid=09cbfe&_nc_eui2=AeG4l72bC0bjwfDfpjqHLuF6XXnzbZ-GImxdefNtn4YibNfdENV-YrWn6BX9nnMG_S9gTfNVUthw4Y4ap4c6fPSU&_nc_ohc=Gv_YojgceNkAX_VDXcg&_nc_ht=scontent-bog1-1.xx&oh=00_AT-a7-a-nsVquM578MDomO2YM43duqcc8ffu5o4QZoBSIA&oe=62818973',
+    photo: "https://luiscdev.github.io/CV/profile.png"//"https://drive.google.com/file/d/1zoGxk3FSx4Q0Rb48K5jRxaw5ZmFm-Nut/view?usp=sharing"//profile //'https://scontent-bog1-1.xx.fbcdn.net/v/t39.30808-6/272678175_3145432135780738_6581827881174133683_n.jpg?_nc_cat=108&ccb=1-6&_nc_sid=09cbfe&_nc_eui2=AeG4l72bC0bjwfDfpjqHLuF6XXnzbZ-GImxdefNtn4YibNfdENV-YrWn6BX9nnMG_S9gTfNVUthw4Y4ap4c6fPSU&_nc_ohc=Gv_YojgceNkAX_VDXcg&_nc_ht=scontent-bog1-1.xx&oh=00_AT-a7-a-nsVquM578MDomO2YM43duqcc8ffu5o4QZoBSIA&oe=62818973',
 }
 
 const formatResume = (r) => ({
